@@ -1,6 +1,6 @@
 soma = 0
 iteracao = 1
-while iteracao<=1000000000:
+while iteracao<=100:
     print(iteracao)
     soma += iteracao
     iteracao += 1
